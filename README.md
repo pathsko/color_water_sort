@@ -37,12 +37,12 @@ The notebook includes several tests demonstrating the algorithm's performance on
 
 - `color_water_sort_.ipynb`: The Jupyter Notebook with the complete implementation and tests.
 
-## 🛠️ Tools and Technologies
+## 🔗 Related Article
 
-- **Python**
-- **Jupyter Notebook / Google Colab**
-- **NumPy** for data manipulation
-- **Matplotlib** for plotting results
+For a detailed explanation of the algorithm, methodology, and results, check out the accompanying article on Medium:
+
+[**Solving the Color Water Sort Game Using a Genetic Algorithm**](https://medium.com/@pathsko/solving-the-color-water-sort-game-using-a-genetic-algorithm-30355443c66c)
+
 
 ## 📬 Contact
 
